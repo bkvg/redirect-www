@@ -1,0 +1,9 @@
+   {
+     "redirects": [
+       {
+         "source": "/(.*)",
+         "destination": "https://dashboard.agenteia.website/$1",
+         "permanent": false
+       }
+     ]
+   }
